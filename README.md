@@ -15,6 +15,7 @@ The workflow includes:
 
 ## 📂 Project Structure
 
+```
 Used-Laptop-Price-Prediction-ElectronicsBazaar-ML/
 │
 ├── data/
@@ -32,6 +33,7 @@ Used-Laptop-Price-Prediction-ElectronicsBazaar-ML/
 ├── ML_Model.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
